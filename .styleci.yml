@@ -6,3 +6,9 @@ php:
     not-name:
       - index.php
       - server.php
+php: true
+js: false
+ts: false
+css: false
+vue: false
+py: false
